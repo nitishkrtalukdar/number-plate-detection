@@ -18,9 +18,6 @@ automatic-number-plate-recognition-python-yolov8/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 Features
