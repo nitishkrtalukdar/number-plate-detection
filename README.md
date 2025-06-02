@@ -7,16 +7,16 @@ This project implements an **Automatic Number Plate Recognition (ANPR)** system 
 ## 📁 Project Structure
 
 automatic-number-plate-recognition-python-yolov8/
-├── pycache/ # Python cache files
-├── models/ # Model-related utilities (if any)
-├── add_missing_data.py # Handles missing entries in data
-├── main.py # Main script to run YOLOv8 detection
-├── util.py # Utility functions
-├── visualize.py # Visualizes YOLOv8 detection outputs
-├── yolov8n.pt # YOLOv8 pre-trained weights
-├── test.csv # Sample dataset (e.g., filenames or labels)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── __pycache__/            # Python cache files
+├── models/                 # Model-related utilities (if any)
+├── add_missing_data.py     # Handles missing entries in data
+├── main.py                 # Main script to run YOLOv8 detection
+├── util.py                 # Utility functions
+├── visualize.py            # Visualizes YOLOv8 detection outputs
+├── yolov8n.pt              # YOLOv8 pre-trained weights
+├── test.csv                # Sample dataset (e.g., filenames or labels)
+├── requirements.txt        # Python dependencies
+└── README.md     
 
 ---
 
